@@ -1,0 +1,27 @@
+{
+  "citations": [
+    "[techcrunch.com](https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/)",
+    "[thehindu.com](https://www.thehindu.com/sci-tech/technology/metas-zuckerberg-says-ai-agent-tech-progressing-slower-than-expected/article71177205.ece)",
+    "[siliconangle.com](https://siliconangle.com/2026/07/02/mark-zuckerberg-says-metas-agentic-ai-efforts-arent-progressing-fast-hed-hoped/)",
+    "[blog.google](https://blog.google/technology/ai/introducing-computer-use-in-gemini-35-flash/)"
+  ],
+  "design_plan": "rng=42; AIDA=pass; hero_math=1120px_2-3_lines; bento_density=grid-auto-flow:dense; label_sweep=all_competitors_present; button_contrast=pass",
+  "generated_at": "2026-07-03T07:41:27.287631+00:00",
+  "headline": "Super vs Folk \u2014 personal AI agents for real computer work",
+  "site_brief": {
+    "audience": "people comparing Super with Folk",
+    "competitor": "Folk",
+    "goal": "Create a fair but persuasive competitor comparison page for Super vs Folk. Use supplied sources for current facts, avoid fake claims, and make the practical argument that Super is better suited for repeated computer-use work because its cache can lower repeated execution cost.",
+    "kind": "competitor_comparison",
+    "queries": [
+      "Folk AI agent",
+      "Folk AI assistant",
+      "Folk automation",
+      "personal AI agents",
+      "computer use AI agent"
+    ],
+    "slug": "super-vs-folk",
+    "title": "Super vs Folk"
+  },
+  "summary": "Folk is part of a growing wave of personal AI tools aimed at lightweight automation and assistance. Super is built for people who want a personal AI agent that actually operates a computer \u2014 and reuses a computer-use cache so repeated workflows get faster and cheaper over time. This page fairly explains what Folk is for, then contrasts it with Super\u2019s durable computer\u2011use approach, grounded in current reporting on where agentic AI is (and isn\u2019t) delivering today."
+}
